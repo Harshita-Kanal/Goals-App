@@ -20,7 +20,9 @@ const styles = StyleSheet.create({
         borderColor: 'black',
         borderWidth: 1,
         marginVertical: 10,
-        backgroundColor: 'pink'
+        backgroundColor: 'pink',
+        padding: 10,
+        borderRadius: 20
     }
 });
 
